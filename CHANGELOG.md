@@ -1,3 +1,7 @@
+## [8.2.4+1]
+
+- Added privacy manifest file.
+
 ## [8.2.4]
 
 - Reverted the minSDK 22 which broke many apps - Sorry everyone
